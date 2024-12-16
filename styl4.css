@@ -16,6 +16,10 @@ main {
     height: 650px;
     width: 50%;
 }
+ol {
+    padding: 0;
+    margin: 0;
+}
 h3 {
     margin: 0;
 }
